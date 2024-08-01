@@ -22,6 +22,7 @@
     "@nuxt/eslint": "^0.4.0",
     "@nuxt/icon": "^1.4.4",
     "@nuxt/image": "^1.7.0",
+    "@nuxtjs/i18n": "^8.3.3",
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@sjkey/eslint-config-vue": "^0.2.5",
     "@total-typescript/ts-reset": "^0.5.1",
