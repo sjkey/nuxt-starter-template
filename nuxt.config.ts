@@ -5,6 +5,7 @@ export default defineNuxtConfig({
     '@nuxt/image',
     'dayjs-nuxt',
     '@vueuse/nuxt',
+    '@nuxtjs/tailwindcss',
   ],
 
   eslint: {
