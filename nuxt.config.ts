@@ -1,5 +1,11 @@
 export default defineNuxtConfig({
-  modules: ['@nuxt/eslint', 'nuxt-typed-router', '@nuxt/image', 'dayjs-nuxt'],
+  modules: [
+    '@nuxt/eslint',
+    'nuxt-typed-router',
+    '@nuxt/image',
+    'dayjs-nuxt',
+    '@vueuse/nuxt',
+  ],
 
   eslint: {
     config: {
