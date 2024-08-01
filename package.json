@@ -10,16 +10,17 @@
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
     "lint": "eslint .",
-    "lint:fix": "eslint --fix ."
+    "lint:fix": "eslint --fix .",
+    "typecheck": "vue-tsc --noEmit"
   },
   "dependencies": {
-    "@nuxt/icon": "^1.4.4",
     "nuxt": "^3.12.4",
     "vue": "latest"
   },
   "devDependencies": {
     "@iconify-json/lucide": "^1.1.204",
     "@nuxt/eslint": "^0.4.0",
+    "@nuxt/icon": "^1.4.4",
     "@nuxt/image": "^1.7.0",
     "@nuxtjs/tailwindcss": "^6.12.1",
     "@sjkey/eslint-config-vue": "^0.2.5",
@@ -27,6 +28,7 @@
     "@vueuse/nuxt": "^10.11.0",
     "dayjs-nuxt": "^2.1.9",
     "eslint": "^9.8.0",
-    "nuxt-typed-router": "^3.6.5"
+    "nuxt-typed-router": "^3.6.5",
+    "vue-tsc": "^2.0.29"
   }
 }
