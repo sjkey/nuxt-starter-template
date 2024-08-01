@@ -21,6 +21,7 @@
   "devDependencies": {
     "@nuxt/eslint": "^0.4.0",
     "@sjkey/eslint-config-vue": "^0.2.5",
+    "dayjs-nuxt": "^2.1.9",
     "eslint": "^9.8.0"
   }
 }
