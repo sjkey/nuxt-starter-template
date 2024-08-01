@@ -1,5 +1,5 @@
 export default defineNuxtConfig({
-  modules: ['@nuxt/eslint', 'nuxt-typed-router'],
+  modules: ['@nuxt/eslint', 'nuxt-typed-router', '@nuxt/image'],
 
   eslint: {
     config: {
