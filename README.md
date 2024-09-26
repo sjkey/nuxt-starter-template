@@ -9,7 +9,7 @@
 - postgresql
 - lucide icons
 
-### Nuxt modules 
+### Nuxt modules
 
 - typed-router
 - image
